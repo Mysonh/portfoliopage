@@ -1,0 +1,13 @@
+header{
+    text-align: left;
+    background-color: black;
+    padding: 60px;
+    color:teal;
+    font-size:30px;
+}
+
+ul{
+    list-style-type: none;
+    margin:0%;
+    padding: 0%;
+}
